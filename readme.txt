@@ -1,6 +1,6 @@
-=== Power Business ===
+=== Business Power ===
 Contributors: fanseethemes
-Author: fanseethemes
+Author: Fansee Themes
 Requires at least: 5.0
 Tested up to: WordPress 5.4
 Requires PHP: 5.2.4
@@ -13,7 +13,7 @@ Tags: left-sidebar, right-sidebar, wide-blocks, block-styles, grid-layout, two-c
 == Description ==
 
 
-For more information about Power Business please go to https://fanseethemes.com/
+For more information about Business Power please go to https://fanseethemes.com/
 
 == Installation ==
 
@@ -23,8 +23,8 @@ For more information about Power Business please go to https://fanseethemes.com/
 
 == Copyright ==
 
-Power Business WordPress Theme, Copyright 2019 Fanseethemes
-Power Business is distributed under the terms of the GNU GPL
+Business Power WordPress Theme, Copyright 2019 Fanseethemes
+Business Power is distributed under the terms of the GNU GPL
 
 == Resources ==
 
@@ -49,20 +49,20 @@ Source:  http://themehybrid.com/plugins/breadcrumb-trail/,
 License: [GPLv2](https://www.gnu.org/licenses/gpl-2.0.html)
 
 == Upgrade Notice == 
-* Please update latest version of Power Business theme for better experiance.
+* Please update latest version of Business Power theme for better experiance.
 
 == Frequently Asked Questions ==
 
 = Does this theme support any plugins?
 
-    power business includes support for Infinite Scroll in Jetpack.
+    business power includes support for Infinite Scroll in Jetpack.
 
 Note:
 	If your Image is not align properly, then you can try regenerate thumbnails. So that it can fit on required image size.
 
 == Screenshots ==
-*https://www.pexels.com/photo/adult-african-american-woman-blur-business-1181352/
-*https://www.pexels.com/photo/people-sitting-on-beige-rolling-chairs-on-brown-wooden-table-inside-room-1181394/
+*https://pxhere.com/en/photo/1454227
+*https://pxhere.com/en/photo/1451427
 
 * All images are licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/legalcode.txt)
 * Icons are GPL developed by fanseethemes.com
